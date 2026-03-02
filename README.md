@@ -1,4 +1,8 @@
-# 👋 Hola, soy **oneshot0**
+<div style="background: linear-gradient(90deg, #562b2b 0%, #ab0b0b 100%); padding: 40px 20px; border-radius: 15px; text-align: center; margin-bottom: 30px; font-family: 'Courier New', monospace; letter-spacing: 2px;">
+  <h1 style="color: #00ff00; margin: 0; font-size: 2.5em; font-weight: bold; text-shadow: 0 0 10px #00ff00, 0 0 20px #ff0000; ;">Jefferson Nalvarte</h1>
+</div>
+
+
 Desarrollador Full Stack con **+4 años de experiencia** en tecnología, apasionado por crear aplicaciones web y móviles de alto rendimiento usando **React, Next.js, Node.js y Express**. Me especializo en arquitecturas escalables y optimización del desempeño para garantizar experiencias de usuario excepcionales. 
 
 Busco proyectos de **alto impacto** que me desafíen a innovar y crecer profesionalmente. Comprometido con el código limpio, las prácticas DevOps modernas y soluciones que generen valor real en cada línea que escribo.
@@ -68,11 +72,9 @@ Busco proyectos de **alto impacto** que me desafíen a innovar y crecer profesio
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneshot0&layout=compact&theme=dark&locale=es&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oneshot0&show_icons=true&theme=dark&locale=es&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=oneshot0&theme=dark&locale=es)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oneshot0&theme=dark&locale=es)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
 ## 🔗 LinkedIn
