@@ -1,5 +1,5 @@
-<div style="background: linear-gradient(90deg, #562b2b 0%, #ab0b0b 100%); padding: 40px 20px; border-radius: 15px; text-align: center; margin-bottom: 30px; font-family: 'Courier New', monospace; letter-spacing: 2px;">
-  <h1 style="color: #00ff00; margin: 0; font-size: 2.5em; font-weight: bold; text-shadow: 0 0 10px #00ff00, 0 0 20px #ff0000; ;">Jefferson Nalvarte</h1>
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=shark&height=301&color=gradient&text=Jefferson%20Nalvarte&fontSize=50&fontAlignY=40&animation=twinkling&textBg=false" />
 </div>
 
 
