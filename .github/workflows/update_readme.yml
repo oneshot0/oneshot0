@@ -2,7 +2,7 @@ name: Actualizar actividad del perfil
 
 on:
   schedule:
-    - cron: "0 * * * *"            # cada hora
+    - cron: "0 */12 * * *"            # cada 12 horas
   workflow_dispatch:               # ejecución manual
   push:
     branches:
