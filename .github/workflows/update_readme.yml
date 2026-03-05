@@ -1,15 +1,19 @@
-name: Update Readme2
+name: Actualizar actividad del perfil
 
 on:
   schedule:
-    - cron: "0 * * * *"       # Corre cada hora
-  workflow_dispatch:          # Permite ejecutarlo manualmente desde la pestaña Actions
+    - cron: "0 * * * *"            # cada hora
+  workflow_dispatch:               # ejecución manual
   push:
     branches:
       - main
 
+# Dar permisos de escritura al token para poder commitear cambios al README
+permissions:
+  contents: write
+
 jobs:
-  build:
+  update-activity:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout del repo
@@ -17,6 +21,9 @@ jobs:
 
       - name: Actualizar sección de actividad
         uses: jamesgeorge007/github-activity-readme@v0.3.6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # <-- clave
         with:
           COMMIT_MSG: "chore: actualizar actividad reciente"
           MAX_LINES: 10
+          GH_USERNAME: oneshot0                       # o tu usuario exacto
