@@ -73,15 +73,15 @@ Busco proyectos de **alto impacto** que me desafíen a innovar y crecer profesio
 ⚡ Actividad reciente
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/oneshot0/oneshot0.github.io/issues/2) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
-2. ❗️ Closed issue [#4](https://github.com/oneshot0/oneshot0.github.io/issues/4) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
-3. ❗️ Opened issue [#4](https://github.com/oneshot0/oneshot0.github.io/issues/4) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
-4. ❗️ Assigned issue [#4](https://github.com/oneshot0/oneshot0.github.io/issues/4) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
-5. ❗️ Assigned issue [#4](https://github.com/oneshot0/oneshot0.github.io/issues/4) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
-6. ❗️ Opened issue [#2](https://github.com/oneshot0/oneshot0.github.io/issues/2) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
-7. ❗️ Assigned issue [#2](https://github.com/oneshot0/oneshot0.github.io/issues/2) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
-8. ❗️ Assigned issue [#2](https://github.com/oneshot0/oneshot0.github.io/issues/2) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
-9. 🗣 Commented on [#1](https://github.com/oneshot0/oneshot0.github.io/issues/1) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
+1. ❗️ Closed issue [#1](https://github.com/oneshot0/miTercerRepo/issues/1) in [oneshot0/miTercerRepo](https://github.com/oneshot0/miTercerRepo)
+2. ❗️ Opened issue [#1](https://github.com/oneshot0/miTercerRepo/issues/1) in [oneshot0/miTercerRepo](https://github.com/oneshot0/miTercerRepo)
+3. ❗️ Closed issue [#2](https://github.com/oneshot0/oneshot0.github.io/issues/2) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
+4. ❗️ Closed issue [#4](https://github.com/oneshot0/oneshot0.github.io/issues/4) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
+5. ❗️ Opened issue [#4](https://github.com/oneshot0/oneshot0.github.io/issues/4) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
+6. ❗️ Assigned issue [#4](https://github.com/oneshot0/oneshot0.github.io/issues/4) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
+7. ❗️ Assigned issue [#4](https://github.com/oneshot0/oneshot0.github.io/issues/4) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
+8. ❗️ Opened issue [#2](https://github.com/oneshot0/oneshot0.github.io/issues/2) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
+9. ❗️ Assigned issue [#2](https://github.com/oneshot0/oneshot0.github.io/issues/2) in [oneshot0/oneshot0.github.io](https://github.com/oneshot0/oneshot0.github.io)
 <!--END_SECTION:activity-->
 
 
