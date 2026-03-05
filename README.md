@@ -73,12 +73,6 @@ Busco proyectos de **alto impacto** que me desafíen a innovar y crecer profesio
 
 ### :zap: Actividad reciente
 
-<!--START\_SECTION:activity-->
-
-<!--END\_SECTION:activity-->
-
-
-
 <!--RECENT_ACTIVITY:start-->
 
 <!--RECENT\_ACTIVITY:last_update-->
