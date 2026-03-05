@@ -1,16 +1,22 @@
-name: Update Readme
+name: Update Readme2
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Ejecutar cada 12 horas
-  workflow_dispatch: # Permitir ejecución manual
+    - cron: "0 * * * *"       # Corre cada hora
+  workflow_dispatch:          # Permite ejecutarlo manualmente desde la pestaña Actions
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnan/blog-post-workflow@master
+      - name: Checkout del repo
+        uses: actions/checkout@v4
+
+      - name: Actualizar sección de actividad
+        uses: jamesgeorge007/github-activity-readme@v0.3.6
         with:
-          # Aquí puedes configurar las variables de entorno si son necesarias
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "chore: actualizar actividad reciente"
+          MAX_LINES: 10
