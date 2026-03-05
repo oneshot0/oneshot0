@@ -73,9 +73,9 @@ Busco proyectos de **alto impacto** que me desafíen a innovar y crecer profesio
 
 ### :zap: Actividad reciente
 
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 
-<!--RECENT\_ACTIVITY:last_update-->
+<!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
 
