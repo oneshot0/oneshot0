@@ -79,7 +79,7 @@ Busco proyectos de **alto impacto** que me desafíen a innovar y crecer profesio
 
 
 
-<!--RECENT\_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:start-->
 
 <!--RECENT\_ACTIVITY:last_update-->
 
